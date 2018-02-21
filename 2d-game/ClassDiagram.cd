@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAABgAAAAAAAAAAAiAAAIIAAACACAUAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuSettings" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAAAIAAAGAAA=</HashCode>
+      <FileName>MenuSettings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameScene" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAMAAAAAAQQAAFAAAAAoAAAAsAAEACEgiABAAAAeAAg=</HashCode>
+      <FileName>InGameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACABAAAAgAAAAQAAAAAgAgAAAAAAAWAAQ=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAgAAAAAAAQAAAAAAgAAAAAAAWAAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroid" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Asteroid::AsteroidSize" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Asteroid.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIEACBAAAgAABAAIIAAACAAAAAgABAAAAAQAEAAA=</HashCode>
+      <FileName>Asteroid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidBig" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>AsteroidBig.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidMedium" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>AsteroidMedium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidSmall" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>AsteroidSmall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIMACBAAABAAAAACIAAACCCAAAAAAAABAAAAEAAA=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEACBAAAAAAAAAIIAAACAAAAAgAAgAAAAQAEABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectile" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Projectile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAACAIAABAAAEAIAAAACAAAgACAAIAAAAAEGAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controls" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAIgACCZAABQgYMAgAiUCCAhAggiFIIQAgiQAEAEA=</HashCode>
+      <FileName>Controls.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

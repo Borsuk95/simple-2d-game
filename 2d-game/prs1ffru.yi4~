@@ -1,0 +1,18 @@
+#pragma once
+#include <SFML\Graphics\RenderWindow.hpp>
+
+class Game
+{
+
+public:
+	Game();
+	~Game();
+
+	static sf::RenderWindow window;
+
+	void handleEvent();
+	void render();
+	void update();
+	static void close();
+};
+
